@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extensionset name="Accredited Joomla! Translations" description="Accredited Joomla! Translations Updates">
+  <extension name="French" element="pkg_fr-FR" type="package" version="2.5.6.1" detailsurl="http://jtester.github.com/update/language/fr-FR_details.xml"/>
+</extensionset>
