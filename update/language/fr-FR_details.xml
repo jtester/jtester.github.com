@@ -95,7 +95,7 @@
     <type>package</type>
     <version>2.5.6.1</version>
     <downloads>
-      <downloadurl type="full" format="zip">http://dev.local/update/language/fr-FR_joomla_lang_full_2.5.6v1.zip</downloadurl>
+      <downloadurl type="full" format="zip">http://jtester.github.com/update/language/fr-FR_joomla_lang_full_2.5.6v1.zip</downloadurl>
     </downloads>
     <targetplatform name="joomla" version="3.0"/>
   </update>
